@@ -3,9 +3,17 @@
 
 function App() {
   return (
-    <h1>
-      Hello All!
-    </h1>
+    <section>
+    
+    <h1 className="title">Hello</h1>
+    <h2>
+      Hi
+    </h2>
+    
+    </section>
+    
+    
+    
   );
 }
 
